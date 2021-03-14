@@ -7,6 +7,6 @@ services:
       - 3360:3306
     environment:
       MYSQL_DATABASE: todo
-      MYSQL_ROOT_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: zaqroot
       MYSQL_USER: user
-      MYSQL_PASSWORD: golang
+      MYSQL_PASSWORD: zaquser
